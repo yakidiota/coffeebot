@@ -1,0 +1,39 @@
+2023-12-18 16:45:08 | [INFO]    | Discordia 2.11.2
+2023-12-18 16:45:08 | [INFO]    | Connecting to Discord...
+2023-12-18 16:45:08 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2023-12-18 16:45:08 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2023-12-18 17:10:43 | [INFO]    | Discordia 2.11.2
+2023-12-18 17:10:43 | [INFO]    | Connecting to Discord...
+2023-12-18 17:10:44 | [INFO]    | Authenticated as coffeebot#4504
+2023-12-18 17:10:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-12-18 17:10:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-12-18 17:10:44 | [INFO]    | Shard 0 : Received HELLO
+2023-12-18 17:10:44 | [INFO]    | Shard 0 : Received READY
+2023-12-18 17:25:43 | [INFO]    | Discordia 2.11.2
+2023-12-18 17:25:43 | [INFO]    | Connecting to Discord...
+2023-12-18 17:25:43 | [INFO]    | Authenticated as coffeebot#4504
+2023-12-18 17:25:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-12-18 17:25:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-12-18 17:25:43 | [INFO]    | Shard 0 : Received HELLO
+2023-12-18 17:25:43 | [INFO]    | Shard 0 : Received READY
+2023-12-18 17:26:01 | [INFO]    | Discordia 2.11.2
+2023-12-18 17:26:01 | [INFO]    | Connecting to Discord...
+2023-12-18 17:26:02 | [INFO]    | Authenticated as coffeebot#4504
+2023-12-18 17:26:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-12-18 17:26:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-12-18 17:26:02 | [INFO]    | Shard 0 : Received HELLO
+2023-12-18 17:26:02 | [INFO]    | Shard 0 : Received READY
+2023-12-18 17:27:30 | [INFO]    | Discordia 2.11.2
+2023-12-18 17:27:30 | [INFO]    | Connecting to Discord...
+2023-12-18 17:27:30 | [INFO]    | Authenticated as coffeebot#4504
+2023-12-18 17:27:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-12-18 17:27:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-12-18 17:27:31 | [INFO]    | Shard 0 : Received HELLO
+2023-12-18 17:27:31 | [INFO]    | Shard 0 : Received READY
+2023-12-18 17:28:08 | [INFO]    | Discordia 2.11.2
+2023-12-18 17:28:08 | [INFO]    | Connecting to Discord...
+2023-12-18 17:28:08 | [INFO]    | Authenticated as coffeebot#4504
+2023-12-18 17:28:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-12-18 17:28:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-12-18 17:28:08 | [INFO]    | Shard 0 : Received HELLO
+2023-12-18 17:28:08 | [INFO]    | Shard 0 : Received READY
